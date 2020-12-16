@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataTemplates_ex1/bin/Debug
+/DataTemplates_ex1/obj/Debug
+/DataTemplates_ex1/.vs/DataTemplates/v15
